@@ -36,18 +36,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- 1. General Stats (Server Azure - Ổn định) -->
+  <!-- 1. General Stats: Set width = 54% để chiếm hơn một nửa bên trái -->
   <a href="https://github.com/quanvo0112">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/quanvo0112?cardType=github&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/quanvo0112?cardType=github&theme=tokyonight" width="50%" alt="GitHub Stats" />
   </a>
 
-  <br><br>
-
+  <!-- 2. Top Languages: Set width = 40% để chiếm phần còn lại bên phải -->
   <a href="https://github.com/quanvo0112">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quanvo0112&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quanvo0112&theme=tokyonight" width="40%" alt="Top Languages" />
   </a>
-
 </div>
 
 <div align="center">
