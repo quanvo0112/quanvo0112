@@ -1,4 +1,3 @@
-<!-- 1. Header: Static Text -->
 <h1 align="center">Hi there! I'm Vo Hoang Anh Quan 👋</h1>
 <h3 align="center">Student at HCMUS 🏫 | CyberSecurity & Software Engineer 🔐</h3>
 
@@ -11,7 +10,6 @@
 - 🔭 I’m currently working on **Python** & **Web Projects**.
 - 🌱 I’m currently learning **Spring Boot** and **ReactJS**.
 
-<!-- Social Links -->
 <p align="left">
   <a href="https://www.linkedin.com/in/vohoanganhquan2004/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -36,14 +34,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- 1. General Stats: Set width = 54% để chiếm hơn một nửa bên trái -->
   <a href="https://github.com/quanvo0112">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/quanvo0112?cardType=github&theme=tokyonight" width="50%" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quanvo0112&theme=tokyonight" width="45%" alt="GitHub Stats" />
   </a>
-
-  <!-- 2. Top Languages: Set width = 40% để chiếm phần còn lại bên phải -->
+  
   <a href="https://github.com/quanvo0112">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quanvo0112&theme=tokyonight" width="40%" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quanvo0112&theme=tokyonight" width="45%" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/quanvo0112">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quanvo0112&theme=tokyonight" width="91%" alt="Profile Details" />
   </a>
 </div>
 
