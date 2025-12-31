@@ -1,14 +1,14 @@
 <h1 align="center">Hi there! I'm Vo Hoang Anh Quan 👋</h1>
-<h3 align="center">Student at HCMUS 🏫 | CyberSecurity & Software Engineer 🔐</h3>
+<h3 align="center">Student at HCMUS | CyberSecurity & Software Engineer </h3>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🏫 I’m currently a student at **University of Science - VNUHCM (HCMUS)**.
-- 🔐 I have a keen interest in **Cybersecurity**, **CTF** and **Software Development**.
-- 🔭 I’m currently working on **Python** & **Web Projects**.
-- 🌱 I’m currently learning **Spring Boot** and **ReactJS**.
+- I’m currently a student at **University of Science - VNUHCM (HCMUS)**.
+- I have a keen interest in **Cybersecurity**, **CTF** and **Software Development**.
+- I’m currently working on **Python** & **Web Projects**.
+- I’m currently learning **Spring Boot** and **ReactJS**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vohoanganhquan2004/" target="_blank">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <a href="https://github.com/quanvo0112">
